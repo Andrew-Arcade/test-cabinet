@@ -14,7 +14,6 @@ config/name="test-cabinet"
 config/version="0.1"
 run/main_scene="uid://bh61wndh8eind"
 config/features=PackedStringArray("4.6", "Forward Plus")
-boot_splash/bg_color=Color(0, 0, 0, 1)
 boot_splash/image="uid://dgb16fk2fak5s"
 config/icon="uid://dgb16fk2fak5s"
 
