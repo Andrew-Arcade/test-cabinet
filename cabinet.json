@@ -3,5 +3,5 @@
   "description": "A simple test cabinet for Andrew Arcade.",
   "icon": "godot-project/icon.png",
   "developer": "Test Studios",
-  "command": "./builds/0.1/example-game.arm64"
+  "command": "./scripts/launch.sh"
 }
