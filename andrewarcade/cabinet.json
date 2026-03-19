@@ -1,0 +1,8 @@
+{
+  "display_name": "Test Cabinet",
+  "description": "A simple test cabinet for Andrew Arcade.",
+  "icon": "godot-project/icon.png",
+  "developer": "Test Studios",
+  "command": "./scripts/launch.sh",
+  "asset": "aa.zip"
+}

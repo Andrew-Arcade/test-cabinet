@@ -7,9 +7,7 @@ GODOT="godot"
 GAME_NAME=$(grep "config/name" $PROJECT_DIR/project.godot | cut -d'"' -f2)
 VERSION=$(grep "config/version" $PROJECT_DIR/project.godot | cut -d'"' -f2)
 
-VERSION="release"
-
-BUILD_DIR="$(pwd)/builds/$VERSION"
+BUILD_DIR="$(pwd)/andrewarcade/build"
 
 mkdir -p "$BUILD_DIR"
 
