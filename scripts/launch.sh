@@ -7,4 +7,4 @@ runuser -u arcade -- env \
     WLR_BACKEND=drm \
     WLR_RENDERER=gles2 \
     GODOT_PLATFORM=wayland \
-    /usr/bin/cage -d -s -- ./builds/0.1/example-game.arm64
+    /usr/bin/cage -d -s -- ./builds/release/example-game.arm64
